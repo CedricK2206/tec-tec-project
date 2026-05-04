@@ -4,6 +4,18 @@ Last updated: 2026-05-04
 ## PROJECT STATUS & CURRENT PHASE
 Phase 1 — Foundations. Just kicked off. Six-month timeline to launch.
 
+## GITHUB REPOSITORY — SOURCE OF TRUTH
+- **Repo:** https://github.com/CedricK2206/tec-tec-project
+- **Branch:** main
+- **Files:**
+  - `TEC_TEC_MEMORY.md` — this file; master decisions, open questions, risks, next actions
+  - `BRAND.md` — brand positioning, tone, visual identity
+  - `COMPETITORS.md` — competitor intelligence and market landscape
+  - `REGULATORY.md` — Mauritius regulatory & compliance notes
+  - `SUPPLIERS.md` — supplier & contact log
+  - `FINANCIALS.md` — unit economics, pricing, margin structure
+- **Protocol:** At every session end (or meaningful decision point), updated files are committed and pushed to this repo. This is the permanent record — not local folders.
+
 ## LOCKED DECISIONS (dated)
 - [2026-05-04] Brand name: Tec-Tec Cream.
 - [2026-05-04] Launch with two SKUs: Family (~150–200ml) and Travel (~25–50ml). Daily-carry and Kids deferred to Phase 6.
@@ -13,6 +25,7 @@ Phase 1 — Foundations. Just kicked off. Six-month timeline to launch.
 - [2026-05-04] Launch channels: Blue Safari Group boats first, then specialized retail and specialized pharmacy. Controlled rollout, not mass market.
 - [2026-05-04] Timeline: six months to launch.
 - [2026-05-04] Memory protocol: read at session start, update on decisions, dated, curated not accumulated.
+- [2026-05-04] GitHub repo (https://github.com/CedricK2206/tec-tec-project) is the single source of truth for all project files. All deliverables, research, and decisions are committed there at session end.
 
 ## SUPERSEDED DECISIONS (dated)
 - [2026-05-04] Originally considered four-SKU launch (Family, Travel, Daily, Kids). Reduced to two for operational and capital discipline. Daily and Kids moved to Phase 6.
