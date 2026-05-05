@@ -1,10 +1,10 @@
 # TEC-TEC CREAM — PROJECT MEMORY
 
-Last updated: 2026-05-04
+Last updated: 2026-05-05
 
 ## PROJECT STATUS & CURRENT PHASE
 
-Phase 1 — Foundations. Mission 1 (Competitive Landscape Deep-Dive) complete.
+Phase 2 — Product & Commercials in parallel. Competitive landscape complete. MOQ and donation mechanic locked. Supplier cost per unit is the critical open variable — everything else (final pricing, margin confirmation, donation MOU) hinges on that number.
 
 ## GITHUB REPOSITORY — SOURCE OF TRUTH
 
@@ -26,24 +26,37 @@ Phase 1 — Foundations. Mission 1 (Competitive Landscape Deep-Dive) complete.
 * [2026-05-04] Reef-safe mineral chemistry (zinc oxide / titanium dioxide) is a brand commitment, not negotiable.
 * [2026-05-04] Donation mechanic: fixed amount per tube sold, scaled by SKU size, visible on pack.
 * [2026-05-04] Intended cause partner: Link to Life. Pack and comms framed as "Link to Life or other" until MOU signed at Phase 3.5.
-* [2026-05-04] Launch channels: Blue Safari Group boats first, then specialized retail and specialized pharmacy. Controlled rollout, not mass market.
 * [2026-05-04] Timeline: six months to launch.
 * [2026-05-04] Memory protocol: read at session start, update on decisions, dated, curated not accumulated.
 * [2026-05-04] GitHub repo (https://github.com/CedricK2206/tec-tec-project) is the single source of truth for all project files. All deliverables, research, and decisions are committed there at session end.
+* [2026-05-05] MOQ: 3,000 units per SKU. First order = 6,000 units total, split 50/50 (3,000 Travel + 3,000 Family).
+* [2026-05-05] Donation amounts per tube: Rs 50 (Travel SKU), Rs 150 (Family SKU). Visible on pack.
+* [2026-05-05] Primary revenue channel: social media + online direct-to-consumer. Blue Safari boats are the launch channel and brand showcase. Retail (Sunset Boulevard, Trouvich) is complementary and brand-building, not the primary revenue driver.
+* [2026-05-05] Subscription model is part of the architecture from launch — monthly billing, auto-ship, AI-automated.
+* [2026-05-05] Launch visuals: AI-generated imagery. No photo shoot at launch.
+* [2026-05-05] Team: Olivier (business partner, digital marketing), Cedric's wife (video and visual campaign design).
+* [2026-05-05] Margin philosophy: lean early — mission sustainability over profit extraction. Target 30–40% gross margin.
+* [2026-05-05] Brand positioning tier: between luxury and commodity. Premium enough to support donation and story; accessible enough for tourist retail impulse purchase.
+* [2026-05-05] Indicative target retail pricing (pending supplier cost confirmation): Travel Rs 475–550; Family Rs 950–1,150; Family subscription Rs 850–1,000/month (~10% discount).
+* [2026-05-05] Ideal landed cost targets: Rs 270 (Travel), Rs 540 (Family). First-order budget estimate: Rs 2.4–3.2M depending on supplier quote.
+* [2026-05-05] Launch campaign — four content angles identified (brainstormed, architecture not fully locked): (1) Xavier's Legacy — emotional core, TikTok/Reels; (2) Reef Safe — environmental, Instagram/Facebook; (3) Made in Mauritius — local pride, justifies premium locally; (4) Performance — SPF50+ zinc credentials, retargeting/conversion. Lead with Xavier's story to build emotional equity, then branch.
 
 ## SUPERSEDED DECISIONS (dated)
 
 * [2026-05-04] Originally considered four-SKU launch (Family, Travel, Daily, Kids). Reduced to two for operational and capital discipline. Daily and Kids moved to Phase 6.
+* [2026-05-05] Original launch channel framing: "Blue Safari Group boats first, then specialized retail and specialized pharmacy." Superseded by: primary channel is social media + online D2C; Blue Safari boats are the launch showcase; retail is complementary and brand-building only.
 
 ## OPEN QUESTIONS
 
-* Exact tube sizes for Family and Travel SKUs.
-* SPF level (50+ assumed but not locked).
-* Sourcing route: white-label vs. contract manufacturer (local formulation likely ruled out by six-month timeline).
-* Fixed donation amount per SKU (Rs).
-* Rough budget bracket for launch.
-* Voice and tone preference for the brand and for AI partner output.
-* In-store Mauritius prices for Nivea, Garnier, Eucerin, Bioderma — need field check at Winners/SuperU/Intermart/pharmacies.
+* **Critical blocker:** Supplier cost per unit (both SKUs). Everything downstream (final retail price, margin confirmation, donation MOU approach) waits on this number. Cedric has a meeting scheduled.
+* Exact tube sizes within confirmed ranges (30ml vs. 50ml for Travel; 150ml vs. 200ml for Family).
+* SPF level — 50+ assumed but not locked.
+* Sourcing route: white-label vs. contract manufacturer (local formulation ruled out by six-month timeline).
+* Subscription model mechanics — cadence (monthly assumed), what's included, exact pricing.
+* Budget bracket for launch — Cedric to confirm with Olivia.
+* Voice and tone preference for brand and AI partner output.
+* In-store Mauritius prices for Nivea, Garnier, Eucerin, Bioderma — still needs field check at Winners/Super U/Intermart/pharmacies.
+* Donation amount final confirmation with Link to Life (Phase 3.5 — Rs 50 Travel / Rs 150 Family is the current working assumption).
 
 ## KEY FACTS & NUMBERS
 
@@ -64,7 +77,7 @@ Phase 1 — Foundations. Mission 1 (Competitive Landscape Deep-Dive) complete.
 
 ## SUPPLIER & CONTACT LOG
 
-*Empty.*
+* Supplier meeting pending — Cedric to attend. Purpose: get per-unit cost quote for both SKUs at 3,000 MOQ. This is the critical path item.
 
 ## COMPETITOR INTELLIGENCE
 
@@ -92,7 +105,10 @@ Topics: Mauritian cosmetics import/registration rules, claims regulation ("broad
 
 * Brand name: Tec-Tec Cream.
 * Origin story: named in memory of Xavier ("Tec-Tec"), Cedric's late brother, who passed from skin cancer seven years ago.
-* Visual identity: TBD.
+* Launch visuals: AI-generated imagery only. No photo shoot at launch.
+* Campaign team: Olivier (digital marketing, business partner), Cedric's wife (video and visual campaign design).
+* Four launch content angles (brainstormed 2026-05-05): (1) Xavier's Legacy — emotional TikTok/Reels; (2) Reef Safe — eco Instagram/Facebook; (3) Made in Mauritius — local pride, premium justification; (4) Performance — SPF50+ zinc credentials, conversion/retargeting. Launch sequence: lead with Xavier's story.
+* Visual identity: TBD (to be developed via Canva with wife's input).
 * Tone: TBD.
 
 ## CAUSE PARTNERSHIP STATUS (LINK TO LIFE)
@@ -113,9 +129,13 @@ Topics: Mauritian cosmetics import/registration rules, claims regulation ("broad
 
 ## NEXT ACTIONS
 
-* Confirm tube sizes for both SKUs.
-* Cedric to share rough budget bracket.
-* Cedric to indicate voice and tone preference.
-* Field price check: Winners / Super U / Intermart / independent pharmacies for Nivea, Garnier, Eucerin, Bioderma in-store MUR prices.
-* Begin Phase 1 regulatory scan (Mission 2 or equivalent).
-* Begin Phase 2 supplier sourcing scan.
+* **Cedric [CRITICAL]:** Complete supplier meeting — return with per-unit cost for Travel and Family SKUs at 3,000 MOQ. Everything else is on hold pending this.
+* Once supplier cost is in: lock final retail pricing, confirm gross margin, finalise donation math.
+* Define subscription model mechanics — cadence, inclusions, pricing structure.
+* Brief Olivier on four campaign content angles for digital strategy input.
+* Brief wife on AI-generated visual direction and campaign role.
+* Cedric: confirm launch budget bracket with Olivia.
+* Field price check still outstanding: Winners / Super U / Intermart / independent pharmacies for Nivea, Garnier, Eucerin, Bioderma in-store MUR prices.
+* Confirm exact tube sizes within ranges (30ml vs. 50ml Travel; 150ml vs. 200ml Family).
+* Begin Phase 1 regulatory scan (Mauritius cosmetics import and claims rules).
+* Phase 3.5 Link to Life approach — after supplier cost and unit economics are confirmed.

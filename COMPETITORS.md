@@ -1,6 +1,8 @@
 # Tec-Tec Cream — Competitor Intelligence
 
-*Last updated: 2026-05-04 | Phase 1 — Mission 1 deep-dive*
+*Last updated: 2026-05-05 | Phase 1 — Mission 1 deep-dive complete. Tec-Tec indicative pricing added 2026-05-05.*
+
+> **Status note:** Mauritius in-store prices for Nivea, Garnier, Eucerin, and Bioderma remain unconfirmed. Field check at Winners, Super U, Intermart, and local pharmacies is still outstanding. All estimates for those brands are reference-priced from EU/online data.
 
 ---
 
@@ -517,11 +519,14 @@ La Roche-Posay has the best reef-safe science but doesn't lead with it. Nivea an
 | Mauritian brand identity | Nobody | ✅ First |
 | Cause-led (named local partner) | Nobody | ✅ First |
 | Reef-safe mineral (SPF50+) in pharmacy | Pradiance (weak) | ✅ Genuinely owned |
-| Boat/resort distribution channel | Nobody | ✅ First mover |
+| Boat/resort distribution channel | Nobody | ✅ First mover — Blue Safari launch |
 | Reef-safe claim that is a brand pillar | Nobody in-market | ✅ Differentiated |
-| Price: Rs 900–1,300 family mineral SPF50+ | La Roche-Posay (chemical, no cause) | ✅ Adjacent, better story |
+| Online D2C + subscription model | Nobody in-market | ✅ Uncontested |
+| Price: Rs 475–550 Travel, Rs 950–1,150 Family (indicative) | La Roche-Posay Rs 820–1,550 (chemical, no cause) | ✅ Adjacent or below, better story |
 
-The white space is real and defensible for a 6-month launch: a **Mauritian-born, reef-safe mineral SPF50+, cause-transparent sunscreen** priced in the specialist pharmacy and boat retail tier (Rs 900–1,400 for family, Rs 400–600 for travel), with a named donation to a local skin cancer partner. No competitor currently occupies all three of those dimensions simultaneously.
+The white space is real and defensible for a 6-month launch: a **Mauritian-born, reef-safe mineral SPF50+, cause-transparent sunscreen** with a named donation to a local skin cancer partner, sold primarily online with a subscription architecture and physically present on Blue Safari boats and specialist pharmacy/retail shelves. No competitor currently occupies all three of those dimensions simultaneously.
+
+> **Pricing note [2026-05-05]:** Tec-Tec indicative targets are Rs 475–550 (Travel) and Rs 950–1,150 (Family), pending supplier cost confirmation. These position the Travel SKU as an impulse-accessible reef-safe option and the Family SKU alongside — not below — the La Roche-Posay mid-range, with a superior story, mission, and mineral credentials.
 
 ---
 
